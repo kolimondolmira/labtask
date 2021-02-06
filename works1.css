@@ -1,0 +1,115 @@
+ *{
+	padding:0;
+	margin:0;
+}
+header{
+	height:auto;
+	width:960px;
+	margin:0 auto; 
+}
+.nav{
+	width:960px;
+	height:auto;
+	background: #000;
+}
+.nav ul li{
+   list_style:none;
+   display:inline-block;
+   
+}
+.nav ul li a{
+	font-size: 20px;
+	font-weight: bold;
+	 color:#fff;
+	 text-transform: uppercase;
+	 display:block;
+	 padding:20px 35px;
+	 text-decoration: none;
+}
+.nav ul li a:hover{
+	color:yellow;
+	background-color: red;
+}
+
+
+.cover img{
+	
+	background-position: center;
+	background-size: cover;
+	 background-repeat: no-repeat;
+	 width: 960px;
+	height:200px;
+	
+}
+.my-picture img{
+	width: 300px;
+	height: auto;
+}
+.text{
+	width:600px;
+	height:auto;
+	padding:0px 20px;
+	font-size:20px;
+	font-style: bold;
+}
+.row{
+	overflow: auto;
+}
+.col{
+	float: left;
+}
+.text p{
+	font-size: 25px;
+	padding-top: 20px;
+
+}
+.title h2{
+	font-size:30px;
+	font-style: bold;
+	padding-top: 20px;
+
+}
+
+.about-section{
+	background-color: #DCE7E5;
+
+}
+
+.Text1 p{
+	font-size: 25px;
+	background-color:#C4E2E1 ;
+	text-align: center;
+	padding: 15px;
+}
+.Text2 p{
+	font-size: 25px;
+	background-color:#D3E5E5 ;
+	text-align: center;
+	padding: 15px;
+}
+.Text3 p{
+	font-size: 25px;
+	background-color:#C4E2E1 ;
+	text-align: center;
+	padding: 15px;
+}
+.Text4 p{
+	font-size: 25px;
+	background-color:#D3E5E5 ;
+	text-align: center;
+	padding: 15px;
+}
+.Text5 p{
+	font-size: 25px;
+	background-color:#C4E2E1 ;
+	text-align: center;
+	padding: 15px;
+}
+
+ .title1 h2{
+    padding:20px;
+ 	font-size:30px;
+	font-style: bold;
+	
+	background-color: #96C0BF;
+ }
